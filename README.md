@@ -22,6 +22,9 @@ Can you imagine people paying for access to a game? Isn't that absurd? For examp
 
 5. 🎮 Start playing.
 
+![Scr](https://github.com/Pocolite/valheim-reworked-project/assets/145265676/aa026c61-6b7f-4604-8ded-9a94ebfbbad0)
+![image](https://github.com/Pocolite/valheim-reworked-project/assets/145265676/5895ce5a-7e9d-4246-8ee1-bb17a1ad9804)
+
 ---
 
 # Для чего нужен этот лоадер?
@@ -47,3 +50,7 @@ Can you imagine people paying for access to a game? Isn't that absurd? For examp
 4. ▶️ Запустите лоадер и дождитесь его закрытия.
 
 5. 🎮 Начните играть.
+
+![Scr](https://github.com/Pocolite/valheim-reworked-project/assets/145265676/aa026c61-6b7f-4604-8ded-9a94ebfbbad0)
+![image](https://github.com/Pocolite/valheim-reworked-project/assets/145265676/5895ce5a-7e9d-4246-8ee1-bb17a1ad9804)
+
